@@ -1,7 +1,8 @@
+# Hi! I'm Rishabh Chaudhary
 # 💫 About Me:
-⚡I'm a FullStack Developer in MERN Stack.
-💥I'm interested in developing cool and useful WebApps and WebSites.
-🚀I'm currently learning ReactJs and Flutter development.
+⚡I'm a FullStack Developer in MERN Stack.<br>
+💥I'm interested in developing cool and useful WebApps and WebSites.<br>
+🚀I'm currently learning ReactJs and Flutter development.<br>
 🧑🏻‍🤝‍🧑🏻I'm looking to collaborate on projects and be a part of the tech community.<br><br>
 
 
