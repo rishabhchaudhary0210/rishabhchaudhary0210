@@ -26,10 +26,12 @@
 <hr>
 
 <div align='center'>
+
+
   
-![](https://github-readme-stats-1n745z39t-rishabhchaudhary0210.vercel.app/api?username=rishabhchaudhary0210&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-nine-silk-52.vercel.app/api?username=rishabhchaudhary0210&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhchaudhary0210&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats-1n745z39t-rishabhchaudhary0210.vercel.app/api/top-langs/?username=rishabhchaudhary0210&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-nine-silk-52.vercel.app/api/top-langs/?username=rishabhchaudhary0210&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   <div>
 
